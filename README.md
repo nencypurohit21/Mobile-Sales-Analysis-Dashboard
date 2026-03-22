@@ -22,8 +22,13 @@ This project is an interactive Power BI dashboard built to analyze mobile sales 
 - Interactive Slicers(Month,etc.)
 
 ### Dashboard Preview
+Dashboard
 ![Mobile Sales Dashboard](images/Dashboard.png)
+
+MTD Report
 ![Mobile Sales Dashboard](images/MTD_Report.png)
+
+Same Period Last Year
 ![Mobile Sales Dashboard](images/Same_Period_Last_Year.png)
 
 ### 🎯Insights
